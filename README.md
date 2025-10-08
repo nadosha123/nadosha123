@@ -28,12 +28,11 @@
 
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" alt="gnu" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="55" height="55"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="html5" width="55" height="55"/>
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim Logo" width="100" height="100">
 </p>
 
 ---
